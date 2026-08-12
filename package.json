@@ -39,7 +39,7 @@
 		"lint": "next lint",
 		"preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
 		"start": "next start",
-        "build:cf": "opennextjs-cloudflare build",
-        "deploy": "opennextjs-cloudflare deploy"
+		"build:cf": "opennextjs-cloudflare build",
+		"deploy": "opennextjs-cloudflare deploy"
 	}
 }
